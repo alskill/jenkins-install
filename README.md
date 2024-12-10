@@ -1,1 +1,1 @@
-# jenkins-install
+# jenkins-linux
